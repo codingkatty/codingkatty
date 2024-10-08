@@ -16,6 +16,12 @@ Welcome to my GitHub profile! I'm a student from Malaysia that has recently emba
 
 ---
 
+## #30NitesOfCode:
+[Check out my progress!](https://www.codedex.io/@themeowmews/30-nites-of-code)  
+![@themeowmews #30NitesOfCode](https://www.codedex.io/api/petStatus?user=themeowmews)
+
+---
+
 ### 🛠️ Technologies & Tools
 ![HTML](https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
