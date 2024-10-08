@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a student from Malaysia that has recently embarked on my coding journey. Coding is rlly fun and I love to code. I learned coding from my teacher, Khan Academy and Codedex <3
 
 <p align="center">
-  <img src="banner1.png" width="100%" style="border-radius:30px;" />
+  <img src="banner1.png" width="100%" style="border-radius:50%;" />
 </p>
 
 ---
@@ -17,26 +17,10 @@ Welcome to my GitHub profile! I'm a student from Malaysia that has recently emba
 ---
 
 ### 🛠️ Technologies & Tools
-![HTML](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python)
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
-![VSCode](https://img.shields.io/badge/-VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-
----
-
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
----
-
-### 🏃 Contribution Graph
-[![Ashutosh's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 📈 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![CSS](https://img.shields.io/badge/-CSS-cyan?style=for-the-badge&logo=CSS)
 
 ---
 
@@ -45,20 +29,9 @@ Welcome to my GitHub profile! I'm a student from Malaysia that has recently emba
 
 ---
 
-🌌✨🌌✨🌌✨🌌✨🌌✨🌌✨🌌✨
-
-### 🌱 I’m currently learning
-- Advanced data visualization techniques.
-- Cloud computing with AWS.
-- Game design mechanics using JavaScript frameworks.
-
----
-
-### 📫 How to reach me
+### 📫 Social Media & more
 - Website: [candyisacat.co](https://www.candyisacat.co)
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin/)
-
+- Twitter: [@LimYing86430](https://x.com/LimYing86340)
 
 <!--
 **codingkatty/codingkatty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
