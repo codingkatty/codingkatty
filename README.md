@@ -17,8 +17,11 @@ Welcome to my GitHub profile! I'm a student from Malaysia that has recently emba
 ---
 
 ## #30NitesOfCode:
-[Check out my progress!](https://www.codedex.io/@themeowmews/30-nites-of-code)  
-![@themeowmews #30NitesOfCode](https://www.codedex.io/api/petStatus?user=themeowmews)
+<div align="center">
+  <a href="https://www.codedex.io/@themeowmews/30-nites-of-code">Check out my progress!</a>  
+  <br />
+  <img src="https://www.codedex.io/api/petStatus?user=themeowmews" alt="@themeowmews #30NitesOfCode" />
+</div>
 
 ---
 
@@ -31,7 +34,7 @@ Welcome to my GitHub profile! I'm a student from Malaysia that has recently emba
 ---
 
 ### ✨ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 
