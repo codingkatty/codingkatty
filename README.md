@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a student from Malaysia that has recently embarked on my coding journey. Coding is rlly fun and I love to code. I learned coding from my teacher, Khan Academy and Codedex <3
 
 <p align="center">
-  <img src="banner1.png" width="100%" style="border-radius:50%;" />
+  <img src="banner1_rounded.png" width="100%" style="border-radius:50%;" />
 </p>
 
 ---
@@ -18,18 +18,16 @@ Welcome to my GitHub profile! I'm a student from Malaysia that has recently emba
 
 ## #30NitesOfCode:
 <div align="center">
-  <a href="https://www.codedex.io/@themeowmews/30-nites-of-code">Check out my progress!</a>  
-  <br />
   <img src="https://www.codedex.io/api/petStatus?user=themeowmews" alt="@themeowmews #30NitesOfCode" />
 </div>
 
 ---
 
 ### 🛠️ Technologies & Tools
-![HTML](https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python)
-![CSS](https://img.shields.io/badge/-CSS-cyan?style=for-the-badge&logo=CSS)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
