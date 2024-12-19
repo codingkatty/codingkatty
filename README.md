@@ -40,6 +40,13 @@ Welcome to my GitHub profile! I'm a student from Malaysia that has recently emba
 - Website: [candyisacat.co](https://www.candyisacat.co)
 - Twitter: [@LimYing86430](https://x.com/LimYing86340)
 
+### 🏅 Achievements
+<details>
+  <summary>Badges</summary>
+  <br>
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/126917613" width="90">
+</details>
+
 <!--
 **codingkatty/codingkatty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
